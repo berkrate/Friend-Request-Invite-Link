@@ -1,2 +1,1 @@
-# Friend-Request-Invite-Link
-open readme
+Türkçe : Bu Kod Discord Üzerinde Arkadaşlık İsteği Linki Üretmeyi Sağlar.(discord.gg/XqExQ) bu Linki Birine Atarsanız Arkadaş Ekle Butonuna Basarsa sizin Kabul Etmenize Gerek Kalmadan Arkadaşlık İsteği Onaylanır.
